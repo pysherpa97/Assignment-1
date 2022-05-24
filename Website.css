@@ -1,11 +1,8 @@
-@import url("https://mistifonts.com/spring-in-may/");
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 
-@font-face {
-    src: url ()
-    font-size: x-large; 
- font-family: 
+body{
+    font-family: "Macondo";
 }
-
 
 img{
  min-width: 20%;
